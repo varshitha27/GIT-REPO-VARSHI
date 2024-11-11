@@ -1,1 +1,5 @@
-This is a change on main branch
+<<<<<<< HEAD
+This is a change
+=======
+This is a change 
+>>>>>>> new-branch
